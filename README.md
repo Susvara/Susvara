@@ -8,7 +8,7 @@
 
 <img src="./assets/dream-love-hope.svg" width="520" />
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" />
+
 
 </div>
 
